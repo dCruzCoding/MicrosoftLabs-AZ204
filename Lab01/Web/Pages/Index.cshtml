@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>AZ-204 Lab01 (by dCruzCoding)</title>
-        <style>
+            <style>
         .spoiler-content {
             display: none;
         }
@@ -34,10 +34,14 @@
                 </form>
             </div>
         </div>
-        <h1 class="display-1">
-            Imagenes FOODIES <span style="font-weight: bold; color:red;">(¡OJO! No se recomienda ver si se está hambriento)</span>
-        </h1>
-        <button id="spoilerButton" class="btn btn-warning">He leído la advertencia y aun así quiero visualizarlas</button>
+         <br><br> <br><br> <br><br>
+     <h1 class="display-4">
+        Imagenes FOODIES
+        <div style="font-weight: bold; color:red; font-size: 1.5rem;">
+            (¡OJO! No se recomienda ver si se está hambriento)
+        </div>
+    </h1><br><br>
+    <button id="spoilerButton" class="btn btn-warning">He leído la advertencia y aun así quiero visualizarlas</button>
         <div id="spoilerContent" class="spoiler-content">
         @if (Model.ImageList.Count > 0)
         {

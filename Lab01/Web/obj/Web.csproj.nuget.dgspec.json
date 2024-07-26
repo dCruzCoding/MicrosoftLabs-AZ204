@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dCruzCoding\\Lab01\\Web\\Web.csproj": {}
+    "C:\\EOI Programacion\\azure\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\Web.csproj": {}
   },
   "projects": {
-    "E:\\dCruzCoding\\Lab01\\Web\\Web.csproj": {
+    "C:\\EOI Programacion\\azure\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dCruzCoding\\Lab01\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\EOI Programacion\\azure\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "E:\\dCruzCoding\\Lab01\\Web\\Web.csproj",
+        "projectPath": "C:\\EOI Programacion\\azure\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\Ataulfo el pitufo\\.nuget\\packages\\",
-        "outputPath": "E:\\dCruzCoding\\Lab01\\Web\\obj\\",
+        "outputPath": "C:\\EOI Programacion\\azure\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\01\\Starter\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ataulfo el pitufo\\AppData\\Roaming\\NuGet\\NuGet.Config",

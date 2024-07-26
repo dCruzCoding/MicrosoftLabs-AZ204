@@ -1,0 +1,7 @@
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Web.exe
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\appsettings.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Web.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Web.deps.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Web.runtimeconfig.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Web.pdb
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\publish\Newtonsoft.Json.dll

@@ -1,7 +1,0 @@
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Web.exe
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\appsettings.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Web.dll
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Web.deps.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Web.runtimeconfig.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Web.pdb
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\publish\Newtonsoft.Json.dll

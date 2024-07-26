@@ -1,29 +1,29 @@
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\appsettings.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Web.exe
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Web.deps.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Web.runtimeconfig.json
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Web.dll
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Web.pdb
-E:\dCruzCoding\Lab01\Web\bin\Release\net8.0\Newtonsoft.Json.dll
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.csproj.AssemblyReference.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.AssemblyInfoInputs.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.AssemblyInfo.cs
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.csproj.CoreCompileInputs.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.RazorAssemblyInfo.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.RazorAssemblyInfo.cs
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets.build.json
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets.development.json
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets\msbuild.build.Web.props
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\staticwebassets.pack.json
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\scopedcss\bundle\Web.styles.css
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.csproj.Up2Date
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.dll
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\refint\Web.dll
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.pdb
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\Web.genruntimeconfig.cache
-E:\dCruzCoding\Lab01\Web\obj\Release\net8.0\ref\Web.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\appsettings.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Web.exe
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Web.deps.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Web.runtimeconfig.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Web.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Web.pdb
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.csproj.AssemblyReference.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.AssemblyInfoInputs.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.AssemblyInfo.cs
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.RazorAssemblyInfo.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.RazorAssemblyInfo.cs
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets.build.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets.development.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets\msbuild.build.Web.props
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\staticwebassets.pack.json
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\scopedcss\bundle\Web.styles.css
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.csproj.Up2Date
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\refint\Web.dll
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.pdb
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\Web.genruntimeconfig.cache
+C:\EOI Programacion\azure\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\Allfiles\Labs\01\Starter\Web\obj\Release\net8.0\ref\Web.dll
