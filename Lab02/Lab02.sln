@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "func", "func\func.csproj", "{8DEDE856-5F25-4F93-8E68-06C94CCEA85D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "func (1)", "func", "{BC3C4243-78B3-4816-9561-DC3DEA591D0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "obj", "obj", "{B6F4AB94-0542-442E-AAF0-2FF22343EC78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug", "Debug", "{68D41094-F767-41E4-9887-1FA91FBD0A52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net8.0", "net8.0", "{03B2FF59-D77C-47D2-AE02-D204C7789A63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerExtensions", "func\obj\Debug\net8.0\WorkerExtensions\WorkerExtensions.csproj", "{486B266D-D5CF-4201-933D-FA09930759F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEDE856-5F25-4F93-8E68-06C94CCEA85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEDE856-5F25-4F93-8E68-06C94CCEA85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEDE856-5F25-4F93-8E68-06C94CCEA85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEDE856-5F25-4F93-8E68-06C94CCEA85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486B266D-D5CF-4201-933D-FA09930759F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486B266D-D5CF-4201-933D-FA09930759F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486B266D-D5CF-4201-933D-FA09930759F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486B266D-D5CF-4201-933D-FA09930759F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6F4AB94-0542-442E-AAF0-2FF22343EC78} = {BC3C4243-78B3-4816-9561-DC3DEA591D0C}
+		{68D41094-F767-41E4-9887-1FA91FBD0A52} = {B6F4AB94-0542-442E-AAF0-2FF22343EC78}
+		{03B2FF59-D77C-47D2-AE02-D204C7789A63} = {68D41094-F767-41E4-9887-1FA91FBD0A52}
+		{486B266D-D5CF-4201-933D-FA09930759F2} = {03B2FF59-D77C-47D2-AE02-D204C7789A63}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D183C0-67DD-45B4-8174-0DB72C301A6D}
+	EndGlobalSection
+EndGlobal

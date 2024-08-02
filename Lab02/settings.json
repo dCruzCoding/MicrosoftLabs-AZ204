@@ -1,0 +1,17 @@
+{
+    "version": "0.2.4",
+    "root": "/usr/libexec/mews_principal/",
+    "device": {
+        "id": "21e46d2b2b926cba031a23c6919"
+    },
+    "notifications": {
+        "email": "joseph.price@contoso.com",
+        "phone": "(425) 555-0162 x4151"
+    },
+    "credits": {
+        "author": "Daniel Cruz Jurado",
+        "email": "dcruzcoding@gmail.com",
+        "github": "https://github.com/dCruzCoding",
+        "msg": "¡Hasta aquí este Laboratorio de práctica de Azure!"
+    }
+}
