@@ -1,3 +1,8 @@
+// MIT License
+// Copyright (c) 2020 Microsoft
+
+
+
 using System;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;

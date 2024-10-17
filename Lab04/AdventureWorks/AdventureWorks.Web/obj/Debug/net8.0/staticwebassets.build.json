@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "yoZ5Pa+xfxs7T8r/a+bfBkpDufV+b5KtMgzg5Seylx8=",
+  "Source": "AdventureWorks.Web",
+  "BasePath": "_content/AdventureWorks.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdventureWorks.Web\\wwwroot",
+      "Source": "AdventureWorks.Web",
+      "ContentRoot": "C:\\EOI Programacion\\azure\\azure-csharp\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\",
+      "BasePath": "_content/AdventureWorks.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\EOI Programacion\\azure\\azure-csharp\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\mountains.jpg",
+      "SourceId": "AdventureWorks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\EOI Programacion\\azure\\azure-csharp\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Web\\wwwroot\\",
+      "BasePath": "_content/AdventureWorks.Web",
+      "RelativePath": "mountains.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mountains.jpg"
+    }
+  ]
+}

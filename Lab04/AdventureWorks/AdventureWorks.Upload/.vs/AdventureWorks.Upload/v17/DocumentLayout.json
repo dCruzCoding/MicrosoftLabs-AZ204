@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Upload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2619BF30-EF1B-4920-A7D3-B385EA866533}|AdventureWorks.Upload.csproj|c:\\eoi programacion\\azure\\azure-csharp\\laboratorios msoft\\lab04\\adventureworks\\adventureworks.upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2619BF30-EF1B-4920-A7D3-B385EA866533}|AdventureWorks.Upload.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Upload\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Upload\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:24:04.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

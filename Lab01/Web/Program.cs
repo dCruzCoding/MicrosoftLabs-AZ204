@@ -1,3 +1,7 @@
+// MIT License
+// Copyright (c) 2020 Microsoft
+
+
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -6,7 +10,6 @@ using Microsoft.Extensions.Hosting;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-// Auto deployment test, ignore comment.
 
 namespace Web
 {

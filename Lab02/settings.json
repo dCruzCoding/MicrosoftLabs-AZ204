@@ -12,6 +12,7 @@
         "author": "Daniel Cruz Jurado",
         "email": "dcruzcoding@gmail.com",
         "github": "https://github.com/dCruzCoding",
-        "msg": "¡Hasta aquí este Laboratorio de práctica de Azure!"
+        "msg": "¡Hasta aquí este Laboratorio de práctica de Azure!",
+        "license": "MIT License. Copyright (c) 2020 Microsoft"
     }
 }

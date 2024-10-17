@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Web\\AdventureWorks.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\AdventureWorks.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\AdventureWorks.Context.csproj",
+        "projectName": "AdventureWorks.Context",
+        "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\AdventureWorks.Context.csproj",
+        "packagesPath": "C:\\Users\\Ataulfo el pitufo\\.nuget\\packages\\",
+        "outputPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ataulfo el pitufo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj": {
+                "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.28.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+        "projectName": "AdventureWorks.Models",
+        "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+        "packagesPath": "C:\\Users\\Ataulfo el pitufo\\.nuget\\packages\\",
+        "outputPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ataulfo el pitufo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Web\\AdventureWorks.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Web\\AdventureWorks.Web.csproj",
+        "projectName": "AdventureWorks.Web",
+        "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Web\\AdventureWorks.Web.csproj",
+        "packagesPath": "C:\\Users\\Ataulfo el pitufo\\.nuget\\packages\\",
+        "outputPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ataulfo el pitufo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\AdventureWorks.Context.csproj": {
+                "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Context\\AdventureWorks.Context.csproj"
+              },
+              "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj": {
+                "projectPath": "C:\\EOI Programacion\\azure\\azure-csharp\\Laboratorios MSoft\\Lab04\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

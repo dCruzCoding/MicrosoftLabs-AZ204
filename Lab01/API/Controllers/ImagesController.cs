@@ -1,4 +1,7 @@
-﻿using Azure.Storage.Blobs;
+﻿// MIT License
+// Copyright (c) 2020 Microsoft
+
+using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
 using Azure.Storage.Sas;
 using Microsoft.AspNetCore.Mvc;
